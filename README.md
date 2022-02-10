@@ -1,3 +1,3 @@
 # Grab-Posisi-Analysis
 
-Refer to 'Main.ipynb'
+https://alif898.github.io/Grab-Posisi-Analysis/
